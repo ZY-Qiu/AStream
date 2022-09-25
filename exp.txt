@@ -1,0 +1,14 @@
+bandwidth
+requested bit rate
+idle time
+Problem, show key problem
+goal: players instablility, bit rate ocislliat
+
+para: capacity of bottleneck fixed, topology, policy, 
+
+bit rate online
+
+change script
+buffered video to rerach steady state, throughput change
+
+nload, on-off validation, play video quality.

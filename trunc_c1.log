@@ -1,0 +1,280 @@
+2022-05-02 18:01:45,197 - dash_client.py:506 - INFO - Downloading MPD file http://server/media/BigBuckBunny/4sec/BigBuckBunny_4s.mpd
+2022-05-02 18:01:46,479 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 304787.538726, next_bitrate = 88783.0
+2022-05-02 18:01:46,709 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 554811.494995, next_bitrate = 128503.0
+2022-05-02 18:01:47,061 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 763428.85723, next_bitrate = 177437.0
+2022-05-02 18:01:47,864 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 809191.836991, next_bitrate = 217761.0
+2022-05-02 18:01:49,205 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 789455.349787, next_bitrate = 255865.0
+2022-05-02 18:01:50,237 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 804581.93828, next_bitrate = 323047.0
+2022-05-02 18:01:51,307 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 801913.547832, next_bitrate = 378355.0
+2022-05-02 18:01:53,664 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 806039.560166, next_bitrate = 509091.0
+2022-05-02 18:01:56,628 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 800882.39919, next_bitrate = 577751.0
+2022-05-02 18:01:59,722 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 801916.896624, next_bitrate = 577751.0
+2022-05-02 18:02:03,303 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 794690.808503, next_bitrate = 577751.0
+2022-05-02 18:02:06,872 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 788472.566032, next_bitrate = 577751.0
+2022-05-02 18:02:10,471 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 784223.037193, next_bitrate = 577751.0
+2022-05-02 18:02:14,009 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 781995.706015, next_bitrate = 577751.0
+2022-05-02 18:02:17,595 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 778909.180803, next_bitrate = 577751.0
+2022-05-02 18:02:19,371 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 777118.961019, next_bitrate = 577751.0
+2022-05-02 18:02:21,749 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 771925.242046, next_bitrate = 577751.0
+2022-05-02 18:02:24,813 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 770420.951874, next_bitrate = 577751.0
+2022-05-02 18:02:27,406 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 770635.219798, next_bitrate = 577751.0
+2022-05-02 18:02:30,183 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 768856.024137, next_bitrate = 577751.0
+2022-05-02 18:02:33,645 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 770291.760023, next_bitrate = 577751.0
+2022-05-02 18:02:37,094 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 768597.647232, next_bitrate = 577751.0
+2022-05-02 18:02:39,105 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 770770.727966, next_bitrate = 577751.0
+2022-05-02 18:02:41,424 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 767029.812882, next_bitrate = 577751.0
+2022-05-02 18:02:43,187 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 771373.148047, next_bitrate = 577751.0
+2022-05-02 18:02:44,535 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 844621.71976, next_bitrate = 577751.0
+2022-05-02 18:02:50,112 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 932113.548482, next_bitrate = 577751.0
+2022-05-02 18:02:56,912 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 898837.575421, next_bitrate = 577751.0
+2022-05-02 18:02:59,328 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 872488.924745, next_bitrate = 577751.0
+2022-05-02 18:03:01,942 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 894423.429913, next_bitrate = 577751.0
+2022-05-02 18:03:09,306 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 867973.089969, next_bitrate = 577751.0
+2022-05-02 18:03:12,635 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 846466.559938, next_bitrate = 577751.0
+2022-05-02 18:03:15,595 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 830978.298787, next_bitrate = 577751.0
+2022-05-02 18:03:18,133 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 868196.276827, next_bitrate = 577751.0
+2022-05-02 18:03:25,651 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 848236.655812, next_bitrate = 577751.0
+2022-05-02 18:03:29,166 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 830985.490532, next_bitrate = 577751.0
+2022-05-02 18:03:32,700 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 819063.664437, next_bitrate = 577751.0
+2022-05-02 18:03:35,658 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 807564.560737, next_bitrate = 577751.0
+2022-05-02 18:03:38,091 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 850161.420868, next_bitrate = 577751.0
+2022-05-02 18:03:45,346 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 833207.782598, next_bitrate = 577751.0
+2022-05-02 18:03:47,461 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 821817.270422, next_bitrate = 577751.0
+2022-05-02 18:03:49,742 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 861080.927458, next_bitrate = 577751.0
+2022-05-02 18:03:56,451 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 841290.68313, next_bitrate = 577751.0
+2022-05-02 18:03:58,943 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 825792.338429, next_bitrate = 577751.0
+2022-05-02 18:04:00,745 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 851549.943626, next_bitrate = 577751.0
+2022-05-02 18:04:08,074 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 835790.328068, next_bitrate = 577751.0
+2022-05-02 18:04:10,419 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 892713.050542, next_bitrate = 577751.0
+2022-05-02 18:04:17,898 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 867397.791303, next_bitrate = 577751.0
+2022-05-02 18:04:19,986 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 846419.042681, next_bitrate = 577751.0
+2022-05-02 18:04:22,234 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 907128.295361, next_bitrate = 577751.0
+2022-05-02 18:04:28,563 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 879196.266865, next_bitrate = 577751.0
+2022-05-02 18:04:31,436 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 855901.744196, next_bitrate = 577751.0
+2022-05-02 18:04:33,808 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 863700.518989, next_bitrate = 577751.0
+2022-05-02 18:04:41,179 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 844845.284779, next_bitrate = 577751.0
+2022-05-02 18:04:44,580 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 829860.562017, next_bitrate = 577751.0
+2022-05-02 18:04:47,983 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 813845.911013, next_bitrate = 577751.0
+2022-05-02 18:04:49,871 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 817326.03619, next_bitrate = 577751.0
+2022-05-02 18:04:56,671 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 807702.728136, next_bitrate = 577751.0
+2022-05-02 18:04:59,532 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 797232.050181, next_bitrate = 577751.0
+2022-05-02 18:05:01,701 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 835504.347344, next_bitrate = 577751.0
+2022-05-02 18:05:08,440 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 822116.888054, next_bitrate = 577751.0
+2022-05-02 18:05:11,475 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 811665.683501, next_bitrate = 577751.0
+2022-05-02 18:05:13,944 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 862296.579724, next_bitrate = 577751.0
+2022-05-02 18:05:20,962 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 844980.740028, next_bitrate = 577751.0
+2022-05-02 18:05:24,292 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 826389.664235, next_bitrate = 577751.0
+2022-05-02 18:05:26,328 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 873663.964146, next_bitrate = 577751.0
+2022-05-02 18:05:33,128 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 852157.443092, next_bitrate = 577751.0
+2022-05-02 18:05:36,216 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 833689.720999, next_bitrate = 577751.0
+2022-05-02 18:05:38,433 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 896419.126865, next_bitrate = 577751.0
+2022-05-02 18:05:46,015 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 870539.10604, next_bitrate = 577751.0
+2022-05-02 18:05:49,240 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 850061.711264, next_bitrate = 577751.0
+2022-05-02 18:05:52,567 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 832391.437299, next_bitrate = 577751.0
+2022-05-02 18:05:54,417 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 893738.170604, next_bitrate = 577751.0
+2022-05-02 18:06:00,861 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 865440.131342, next_bitrate = 577751.0
+2022-05-02 18:06:02,848 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 950203.275799, next_bitrate = 782553.0
+2022-05-02 18:06:04,823 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1063330.88903, next_bitrate = 782553.0
+2022-05-02 18:06:10,709 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1121515.54392, next_bitrate = 782553.0
+2022-05-02 18:06:12,843 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1203113.63408, next_bitrate = 782553.0
+2022-05-02 18:06:19,012 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1241628.35842, next_bitrate = 1008699.0
+2022-05-02 18:06:23,346 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1214987.35894, next_bitrate = 1008699.0
+2022-05-02 18:06:28,989 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1124947.60114, next_bitrate = 782553.0
+2022-05-02 18:06:33,118 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1051750.1387, next_bitrate = 782553.0
+2022-05-02 18:06:37,417 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 993802.509564, next_bitrate = 782553.0
+2022-05-02 18:06:41,836 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 948329.158987, next_bitrate = 782553.0
+2022-05-02 18:06:46,328 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 911474.892404, next_bitrate = 577751.0
+2022-05-02 18:06:48,504 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 882694.527662, next_bitrate = 577751.0
+2022-05-02 18:06:51,429 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 859612.292914, next_bitrate = 577751.0
+2022-05-02 18:06:55,064 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 839741.242753, next_bitrate = 577751.0
+2022-05-02 18:06:58,633 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 824994.524556, next_bitrate = 577751.0
+2022-05-02 18:07:02,108 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 814178.148278, next_bitrate = 577751.0
+2022-05-02 18:07:07,836 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 956783.560744, next_bitrate = 782553.0
+2022-05-02 18:07:11,682 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 926949.182707, next_bitrate = 577751.0
+2022-05-02 18:07:15,328 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 893010.511894, next_bitrate = 577751.0
+2022-05-02 18:07:18,549 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 868019.81, next_bitrate = 577751.0
+2022-05-02 18:07:21,096 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 848577.666549, next_bitrate = 577751.0
+2022-05-02 18:07:26,645 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 985950.473089, next_bitrate = 782553.0
+2022-05-02 18:07:30,032 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 968919.515413, next_bitrate = 782553.0
+2022-05-02 18:07:35,533 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1082316.36019, next_bitrate = 782553.0
+2022-05-02 18:07:37,745 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1108004.77001, next_bitrate = 782553.0
+2022-05-02 18:07:43,498 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1182228.42881, next_bitrate = 782553.0
+2022-05-02 18:07:46,420 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1155599.23002, next_bitrate = 782553.0
+2022-05-02 18:07:52,238 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1231343.6341, next_bitrate = 1008699.0
+2022-05-02 18:07:55,338 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1187843.10075, next_bitrate = 782553.0
+2022-05-02 18:07:59,452 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1103548.35095, next_bitrate = 782553.0
+2022-05-02 18:08:03,887 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1035879.65797, next_bitrate = 782553.0
+2022-05-02 18:08:07,928 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 983196.806998, next_bitrate = 782553.0
+2022-05-02 18:08:12,091 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 938167.435432, next_bitrate = 577751.0
+2022-05-02 18:08:15,662 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 902577.196454, next_bitrate = 577751.0
+2022-05-02 18:08:18,980 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 872737.667936, next_bitrate = 577751.0
+2022-05-02 18:08:22,435 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 851192.944093, next_bitrate = 577751.0
+2022-05-02 18:08:28,012 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 986715.920787, next_bitrate = 782553.0
+2022-05-02 18:08:30,995 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 981217.193504, next_bitrate = 782553.0
+2022-05-02 18:08:34,931 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 937579.23833, next_bitrate = 577751.0
+2022-05-02 18:08:37,674 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 901084.655583, next_bitrate = 577751.0
+2022-05-02 18:08:42,838 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1026626.67945, next_bitrate = 782553.0
+2022-05-02 18:08:45,444 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1080590.91906, next_bitrate = 782553.0
+2022-05-02 18:08:51,000 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1173334.36076, next_bitrate = 782553.0
+2022-05-02 18:08:53,505 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1213706.77694, next_bitrate = 1008699.0
+2022-05-02 18:09:00,499 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1277255.01629, next_bitrate = 1008699.0
+2022-05-02 18:09:04,400 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1198508.80059, next_bitrate = 782553.0
+2022-05-02 18:09:08,756 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1111342.80194, next_bitrate = 782553.0
+2022-05-02 18:09:12,050 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 1041831.36929, next_bitrate = 782553.0
+2022-05-02 18:09:16,105 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 987257.818179, next_bitrate = 782553.0
+2022-05-02 18:09:19,910 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 941020.217833, next_bitrate = 782553.0
+2022-05-02 18:09:23,420 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 904819.231902, next_bitrate = 577751.0
+2022-05-02 18:09:26,660 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 876555.220937, next_bitrate = 577751.0
+2022-05-02 18:09:30,213 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 855018.965499, next_bitrate = 577751.0
+2022-05-02 18:09:36,008 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 992522.547904, next_bitrate = 782553.0
+2022-05-02 18:09:40,182 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 957768.882082, next_bitrate = 782553.0
+2022-05-02 18:09:44,780 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 918198.599152, next_bitrate = 577751.0
+2022-05-02 18:09:48,340 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 884826.999853, next_bitrate = 577751.0
+2022-05-02 18:09:51,973 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 860181.246586, next_bitrate = 577751.0
+2022-05-02 18:09:55,194 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 843323.528451, next_bitrate = 577751.0
+2022-05-02 18:09:58,636 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 827993.312551, next_bitrate = 577751.0
+2022-05-02 18:10:02,101 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 812222.832739, next_bitrate = 577751.0
+2022-05-02 18:10:07,830 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 956777.705134, next_bitrate = 782553.0
+2022-05-02 18:10:11,967 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 931220.049019, next_bitrate = 577751.0
+2022-05-02 18:10:15,494 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 896225.046684, next_bitrate = 577751.0
+2022-05-02 18:10:19,010 - basic_dash2.py:63 - INFO - Basic Adaptation: Download Rate = 870284.577315, next_bitrate = 577751.0
+time,Download Rate,next_bitrate
+1,304787.538726,88783.0
+1,554811.494995,128503.0
+2,763428.85723,177437.0
+2,809191.836991,217761.0
+4,789455.349787,255865.0
+5,804581.93828,323047.0
+6,801913.547832,378355.0
+8,806039.560166,509091.0
+11,800882.39919,577751.0
+14,801916.896624,577751.0
+18,794690.808503,577751.0
+21,788472.566032,577751.0
+25,784223.037193,577751.0
+29,781995.706015,577751.0
+32,778909.180803,577751.0
+34,777118.961019,577751.0
+36,771925.242046,577751.0
+39,770420.951874,577751.0
+42,770635.219798,577751.0
+45,768856.024137,577751.0
+48,770291.760023,577751.0
+52,768597.647232,577751.0
+54,770770.727966,577751.0
+56,767029.812882,577751.0
+58,771373.148047,577751.0
+59,844621.71976,577751.0
+65,932113.548482,577751.0
+71,898837.575421,577751.0
+74,872488.924745,577751.0
+76,894423.429913,577751.0
+84,867973.089969,577751.0
+87,846466.559938,577751.0
+90,830978.298787,577751.0
+93,868196.276827,577751.0
+100,848236.655812,577751.0
+104,830985.490532,577751.0
+107,819063.664437,577751.0
+110,807564.560737,577751.0
+113,850161.420868,577751.0
+120,833207.782598,577751.0
+122,821817.270422,577751.0
+124,861080.927458,577751.0
+131,841290.68313,577751.0
+133,825792.338429,577751.0
+135,851549.943626,577751.0
+143,835790.328068,577751.0
+145,892713.050542,577751.0
+152,867397.791303,577751.0
+154,846419.042681,577751.0
+157,907128.295361,577751.0
+163,879196.266865,577751.0
+166,855901.744196,577751.0
+168,863700.518989,577751.0
+176,844845.284779,577751.0
+179,829860.562017,577751.0
+182,813845.911013,577751.0
+184,817326.03619,577751.0
+191,807702.728136,577751.0
+194,797232.050181,577751.0
+196,835504.347344,577751.0
+203,822116.888054,577751.0
+206,811665.683501,577751.0
+208,862296.579724,577751.0
+215,844980.740028,577751.0
+219,826389.664235,577751.0
+221,873663.964146,577751.0
+228,852157.443092,577751.0
+231,833689.720999,577751.0
+233,896419.126865,577751.0
+241,870539.10604,577751.0
+244,850061.711264,577751.0
+247,832391.437299,577751.0
+249,893738.170604,577751.0
+255,865440.131342,577751.0
+257,950203.275799,782553.0
+259,1063330.88903,782553.0
+265,1121515.54392,782553.0
+267,1203113.63408,782553.0
+274,1241628.35842,1008699.0
+278,1214987.35894,1008699.0
+283,1124947.60114,782553.0
+288,1051750.1387,782553.0
+292,993802.509564,782553.0
+296,948329.158987,782553.0
+301,911474.892404,577751.0
+303,882694.527662,577751.0
+306,859612.292914,577751.0
+310,839741.242753,577751.0
+313,824994.524556,577751.0
+317,814178.148278,577751.0
+322,956783.560744,782553.0
+326,926949.182707,577751.0
+330,893010.511894,577751.0
+333,868019.81,577751.0
+336,848577.666549,577751.0
+341,985950.473089,782553.0
+345,968919.515413,782553.0
+350,1082316.36019,782553.0
+352,1108004.77001,782553.0
+358,1182228.42881,782553.0
+361,1155599.23002,782553.0
+367,1231343.6341,1008699.0
+370,1187843.10075,782553.0
+374,1103548.35095,782553.0
+378,1035879.65797,782553.0
+382,983196.806998,782553.0
+387,938167.435432,577751.0
+390,902577.196454,577751.0
+393,872737.667936,577751.0
+397,851192.944093,577751.0
+403,986715.920787,782553.0
+405,981217.193504,782553.0
+409,937579.23833,577751.0
+412,901084.655583,577751.0
+417,1026626.67945,782553.0
+420,1080590.91906,782553.0
+426,1173334.36076,782553.0
+428,1213706.77694,1008699.0
+435,1277255.01629,1008699.0
+439,1198508.80059,782553.0
+443,1111342.80194,782553.0
+447,1041831.36929,782553.0
+451,987257.818179,782553.0
+454,941020.217833,782553.0
+458,904819.231902,577751.0
+461,876555.220937,577751.0
+465,855018.965499,577751.0
+471,992522.547904,782553.0
+475,957768.882082,782553.0
+479,918198.599152,577751.0
+483,884826.999853,577751.0
+486,860181.246586,577751.0
+490,843323.528451,577751.0
+493,827993.312551,577751.0
+497,812222.832739,577751.0
+502,956777.705134,782553.0
+506,931220.049019,577751.0
+510,896225.046684,577751.0
+514,870284.577315,577751.0
